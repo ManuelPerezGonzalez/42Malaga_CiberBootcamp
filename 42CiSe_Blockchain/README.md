@@ -4,7 +4,7 @@ Guía inicial:
 
 https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
 
-+------------------ DESCRIPCIONES ------------------+
++------------------ DESCRIPTIONS ------------------+
 
 - Para esta práctica utilizaremos el lenguaje python en visual studio code. Es aconsejable usar una versión de la 3 en adelante ya que las anteriores dejaron de ser utilizadas a partir de ciertas actualizaciones de sistemas.
 
